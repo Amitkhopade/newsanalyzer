@@ -44,6 +44,17 @@ Add these to your .env file.
 streamlit run app/App.py
 ```
 
+application - ![image](https://github.com/user-attachments/assets/58822e68-00e8-437a-b1bb-5ec4307b177a)
+![image](https://github.com/user-attachments/assets/e5e7dcbb-c8e8-4dd6-b618-24bc86c23cef)
+![image](https://github.com/user-attachments/assets/5c2d11e9-70ed-479c-833d-93afb9f50e20)
+![image](https://github.com/user-attachments/assets/57155195-a9c3-4af1-b27b-13c59aa52936)
+![image](https://github.com/user-attachments/assets/c6bea342-c6a1-47be-ab74-26197a8d8f20)
+
+
+
+
+
+
 ## Contributing 🤝
 
 1. Fork the repository
