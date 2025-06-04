@@ -4,7 +4,7 @@ import streamlit as st
 
 # Model and Search Settings
 DEFAULT_MODEL = "claude-sonnet-4-20250514"  # Latest stable Claude model
-ANTHROPIC_API_KEY = "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"
+ANTHROPIC_API_KEY = "your API KEY"
 MAX_TOKENS = 10000  # Max tokens for Claude Sonnet
 MAX_RESULTS = 10  # Limit to 10 articles
 SEARCH_DEPTH = "advanced"
