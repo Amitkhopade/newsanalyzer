@@ -1,0 +1,8 @@
+digraph INFRA {
+  node [ color = "black", fillcolor = "#E6E6E6", height =1, style = "filled,bold,rounded", fontname = "Arial" ];
+  "LangSmithClient" [ label = "LangSmithClient
+(LangSmith::Client)", shape =rectangle ];
+  "LangChainTracer" [ label = "LangChainTracer
+(LangChain::Tracer)", shape =rectangle ];
+  "LangChainTracer" -> "LangSmithClient";
+}
